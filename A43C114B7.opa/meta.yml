@@ -1,0 +1,25 @@
+id: A43C114B7
+title: Guide to the Practice of Narak Kong Shak
+type: translation
+pechas:
+- I11A41115
+- I4836CE32
+- I375797CD
+- I2EE9C1AB
+source_metadata:
+  languages:
+  - en
+  - fr
+  - it
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:32:34.162920
+  last_modified_at: 2023-01-04 12:32:34.162929
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I11A41115/0A68: '0627'
+  I4836CE32/D70C: '0627'
+  I375797CD/45DF: '0627'
+  I2EE9C1AB/A5F2: '0627'
